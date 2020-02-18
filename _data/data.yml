@@ -16,7 +16,7 @@ sidebar:
     phone: 
     website: inferorigins.com #do not add http://
     linkedin: sudhakardaggubati
-    github: MrDaggubatiZZZZTTT
+    github: MrDaggubati
     gitlab:
     bitbucket:
     twitter: '@MRDaggubati'
@@ -32,10 +32,10 @@ sidebar:
         level: Elementary
 
     interests:
-      - item: Science & Technology
+      - item: Technology
         link:
 
-      - item: Reading
+      - item: Politics
         link:
 
 
@@ -88,15 +88,19 @@ career-profile:
       ---WIP ----
 education:
     - degree: MSc in Computer Science
-      university: Bharkathullah University
-      time: 2001 - 2003
+      university: University of London
+      time: 2011 - 2012
       details: |
-        Masters in Computers.
-          - 1
-          - 2
-    - degree: BSc in Mathematics,Physics & Chemistry
-      university: Nagarjuna University
-      time: 1995 - 1998
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
