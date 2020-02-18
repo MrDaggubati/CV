@@ -12,7 +12,6 @@ sidebar:
     avatar: profile.PNG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: sudhakar@inferorigins.com
     phone: 
     website: inferorigins.com #do not add http://
     linkedin: sudhakardaggubati
@@ -58,12 +57,12 @@ career-profile:
       Familiarity & experience with Virtual machines & Containers and container orchestration using Docker, Docker swarm & Ansible.
       
       Data & Analytics Enthusiasts whose primary skill is to deliver business agility through
-            • Data & Analytics solutions around Cloud (AWS ) / IoT / Big Data technologies.
-            • Leading and delivering Data & Analytics solutions; on-premise and cloud
-            • Data Platform migrations and Reengineering
-            • Product & Project management
-            • Team building, coaching and Management
-            • Data Governance and Lineage solutions.
+      • Data & Analytics solutions around Cloud (AWS ) / IoT / Big Data technologies.
+      • Leading and delivering Data & Analytics solutions; on-premise and cloud
+      • Data Platform migrations and Reengineering
+      • Product & Project management
+      • Team building, coaching and Management
+      • Data Governance and Lineage solutions.
             
             
       Technologies involved; Architectural levels or Hands-On with various levels of expertise.
