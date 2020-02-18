@@ -32,10 +32,10 @@ sidebar:
         level: Elementary
 
     interests:
-      - item: Technology
+      - item: Science & Technology
         link:
 
-      - item: Politics
+      - item: Reading
         link:
 
 
@@ -88,19 +88,15 @@ career-profile:
       ---WIP ----
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: Bharkathullah University
+      time: 2001 - 2003
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Masters in Computers.
+          - 1
+          - 2
+    - degree: BSc in Mathematics,Physics & Chemistry
+      university: Nagarjuna University
+      time: 1995 - 1998
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
