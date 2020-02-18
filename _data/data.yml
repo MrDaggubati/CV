@@ -106,11 +106,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Data & Analytics
+        level: 85%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name:  Service Delivery & Technology Consulting
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow"> Xiaoying Riley</a>
